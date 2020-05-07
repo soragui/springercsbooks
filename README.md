@@ -4,7 +4,7 @@ PURPOSE: download springer books related to computer science which are made avai
 
 LANGUAGE: python 3
 
-MODULE REQUIREMENTS: beautifulsoup4, requests, PyPDF2, io, urllib3
+MODULE REQUIREMENTS: beautifulsoup4, requests, PyPDF2, io, urllib3, certifi
 
 links to books can be found at: https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 
