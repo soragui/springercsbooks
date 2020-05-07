@@ -1,4 +1,4 @@
-# springercsbooks
+# Springer Free Book
 
 PURPOSE: download springer books related to computer science which are made available for free by springer.com
 
@@ -9,3 +9,9 @@ MODULE REQUIREMENTS: beautifulsoup4, requests, PyPDF2, io, urllib3, certifi
 links to books can be found at: https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 
 Just run the code and get the books.
+
+HOW TO USE:
+```bash
+pip install -r requirements.txt
+python springer_books.py
+```
